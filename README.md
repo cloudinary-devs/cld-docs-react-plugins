@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# cld-docs-react-plugins
+
+Examples of using plugins for displaying images with the Cloudinary React SDK.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
